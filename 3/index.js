@@ -138,3 +138,4 @@ console.log('==========');
 console.log(`Menor valor de faturamento: ${menorValor.toFixed(2)}`);
 console.log(`Maior valor de faturamento: ${maiorValor.toFixed(2)}`);
 console.log(`Número de dias no mês em que o valor de faturamento diário foi superior à média mensal: ${maioresMedia.length}`);
+
